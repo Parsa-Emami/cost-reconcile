@@ -1,0 +1,7 @@
+{
+  "currency": "EUR",
+  "invoice_minor": 10000,
+  "allocated_minor": 6500,
+  "shared_minor": 3000,
+  "unallocated_minor": 500
+}
